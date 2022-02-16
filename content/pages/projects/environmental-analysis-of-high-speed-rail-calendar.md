@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 43323cdc-4954-552b-1629-f2ad3881846e
 title: 'Environmental Analysis of High-Speed Rail: Calendar'
 uid: 9369eff4-51b1-44aa-f4f0-79e78036d89e

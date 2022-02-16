@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource includes problems exercises.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-00-introduction-to-engineering-systems-spring-2011/16c7261a2c1422f58e9e70649e02f86e_MITESD_00S11_assn03.pdf
+file: /media/courses/esd-00-introduction-to-engineering-systems-spring-2011/16c7261a2c1422f58e9e70649e02f86e_MITESD_00S11_assn03.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_00S11_assn03.pdf
 uid: 16c7261a-2c14-22f5-8e9e-70649e02f86e

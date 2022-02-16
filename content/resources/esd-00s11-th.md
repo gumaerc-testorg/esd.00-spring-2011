@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-00-introduction-to-engineering-systems-spring-2011/e125e02003b87c191adaff836ae1aaf6_esd-00s11-th.jpg
+file: /media/courses/esd-00-introduction-to-engineering-systems-spring-2011/e125e02003b87c191adaff836ae1aaf6_esd-00s11-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This course will provide you with the skills necessary to tackle some of
@@ -9,6 +9,8 @@ image_metadata:
     by [Honou](http://www.flickr.com/photos/honou/3350764803/) on Flickr.)
   credit: ''
   image-alt: Photo of traffic jam in Bangkok.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: esd-00s11-th.jpg
 uid: e125e020-03b8-7c19-1ada-ff836ae1aaf6

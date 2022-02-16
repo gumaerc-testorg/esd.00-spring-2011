@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource includes details on how little mistakes can lead to big
   differences in outcomes: the weather.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-00-introduction-to-engineering-systems-spring-2011/aece731683f2e6fd5a4a6f129d699499_MITESD_00S11_read05a.pdf
+file: /media/courses/esd-00-introduction-to-engineering-systems-spring-2011/aece731683f2e6fd5a4a6f129d699499_MITESD_00S11_read05a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_00S11_read05a.pdf
 uid: aece7316-83f2-e6fd-5a4a-6f129d699499

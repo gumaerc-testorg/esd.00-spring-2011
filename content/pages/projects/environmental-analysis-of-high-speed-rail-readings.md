@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 43323cdc-4954-552b-1629-f2ad3881846e
 title: 'Environmental Analysis of High-Speed Rail: Readings'
 uid: 07c5e80f-e070-a1d1-927b-e46b68011048

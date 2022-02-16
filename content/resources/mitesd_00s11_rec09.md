@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource includes information on project feedback and discussion.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-00-introduction-to-engineering-systems-spring-2011/392f5bcba3352859a71d92066c598c3d_MITESD_00S11_rec09.pdf
+file: /media/courses/esd-00-introduction-to-engineering-systems-spring-2011/392f5bcba3352859a71d92066c598c3d_MITESD_00S11_rec09.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Environmental Analysis of High-Speed Rail: Recitations'
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_00S11_rec09.pdf
 uid: 392f5bcb-a335-2859-a71d-92066c598c3d

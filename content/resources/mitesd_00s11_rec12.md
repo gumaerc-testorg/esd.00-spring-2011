@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: This resource includes information on project lab hours.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-00-introduction-to-engineering-systems-spring-2011/2849b641c7216e915d46d7c394a061bb_MITESD_00S11_rec12.pdf
+file: /media/courses/esd-00-introduction-to-engineering-systems-spring-2011/2849b641c7216e915d46d7c394a061bb_MITESD_00S11_rec12.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: 'Environmental Analysis of High-Speed Rail: Recitations'
+parent_type: CourseSection
 resourcetype: Document
 title: MITESD_00S11_rec12.pdf
 uid: 2849b641-c721-6e91-5d46-d7c394a061bb
