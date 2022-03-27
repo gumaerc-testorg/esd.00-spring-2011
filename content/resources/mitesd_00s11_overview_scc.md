@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 43323cdc-4954-552b-1629-f2ad3881846e
 resourcetype: Document
 title: MITESD_00S11_overview_scc.pdf
 uid: 5d1b3389-8585-a1f0-8d60-7dfe0c717e37

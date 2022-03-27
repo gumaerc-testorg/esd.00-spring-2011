@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: 'Environmental Analysis of High-Speed Rail: Recitations'
 parent_type: CourseSection
+parent_uid: f3b64afa-157e-c7ee-08ac-dce5d386b228
 resourcetype: Document
 title: MITESD_00S11_rec04.pdf
 uid: 1b1abfd1-1263-d3f7-8cc8-6478d0a0fa0c

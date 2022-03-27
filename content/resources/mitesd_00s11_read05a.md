@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: a4a0f175-edb3-9174-5b2f-580e3eff1d2a
 resourcetype: Document
 title: MITESD_00S11_read05a.pdf
 uid: aece7316-83f2-e6fd-5a4a-6f129d699499

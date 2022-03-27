@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Environmental Analysis of High-Speed Rail: Overview'
 parent_type: CourseSection
+parent_uid: 50d92ea2-d150-c5f6-f0ad-74c04e8bec8d
 resourcetype: Image
 title: overview_fig1.jpg
 uid: d06a936b-481d-4b2c-e003-1c934cc3aa29
