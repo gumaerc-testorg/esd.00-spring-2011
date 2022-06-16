@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains a description of the project on high-speed rail.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

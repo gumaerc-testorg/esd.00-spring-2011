@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the three of the four course assignments along
+  with solutions.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -30,7 +32,7 @@ SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_assn01))
+({{% resource_link 1401aeb1-4122-d561-33a0-0be029f82a69 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -42,10 +44,10 @@ SOLUTIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitesd_00s11_assn02))
+({{% resource_link 84c4e912-cdf0-d9fa-3888-52d5e38e1c3e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_soln02))
+({{% resource_link 65d01a09-a74a-a872-fe41-00c328bea994 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,10 +68,10 @@ SOLUTIONS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_assn04))
+({{% resource_link 992607c1-2838-f595-e6c4-38de26ba02dd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([XLS]({{< baseurl >}}/resources/soln04))
+({{% resource_link 923e7b52-02bb-3382-a98a-da3cd3383415 "XLS" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a calendar for the project on high-speed rail,
+  which includes key topics covered and dates of project deliverables.    '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

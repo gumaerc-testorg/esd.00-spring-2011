@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides potential topics and information on deliverables
+  for the three course projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -20,25 +22,25 @@ The three projects topics are:
 
 A complete set of materials are available for the project An Environmental Analysis of High-Speed Rail and Aviation: The Northeast Corridor:
 
-[Environmental Analysis of High-Speed Rail: Overview]({{< baseurl >}}/pages/projects/environmental-analysis-of-high-speed-rail-overview)
+{{% resource_link 50d92ea2-d150-c5f6-f0ad-74c04e8bec8d "Environmental Analysis of High-Speed Rail: Overview" %}}
 
-[Environmental Analysis of High-Speed Rail: Calendar]({{< baseurl >}}/pages/projects/environmental-analysis-of-high-speed-rail-calendar)
+{{% resource_link 9369eff4-51b1-44aa-f4f0-79e78036d89e "Environmental Analysis of High-Speed Rail: Calendar" %}}
 
-[Environmental Analysis of High-Speed Rail: Readings]({{< baseurl >}}/pages/projects/environmental-analysis-of-high-speed-rail-readings)
+{{% resource_link 07c5e80f-e070-a1d1-927b-e46b68011048 "Environmental Analysis of High-Speed Rail: Readings" %}}
 
-[Environmental Analysis of High-Speed Rail: Recitations]({{< baseurl >}}/pages/projects/environmental-analysis-of-high-speed-rail-recitations)
+{{% resource_link f3b64afa-157e-c7ee-08ac-dce5d386b228 "Environmental Analysis of High-Speed Rail: Recitations" %}}
 
 Selected materials are available for the other two projects:
 
 ### The Stroke Care Chain
 
-Overview ([PDF]({{< baseurl >}}/resources/mitesd_00s11_overview_scc)) (Courtesy of Dr. Stan Finkelstein, Amparo Canaveras, Kenneth Gotleib, and Abby Horn. Used with permission.)
+Overview ({{% resource_link 5d1b3389-8585-a1f0-8d60-7dfe0c717e37 "PDF" %}}) (Courtesy of Dr. Stan Finkelstein, Amparo Canaveras, Kenneth Gotleib, and Abby Horn. Used with permission.)
 
-Calendar and Reading List ([PDF]({{< baseurl >}}/resources/mitesd_00s11_calendar_scc)) (Courtesy of Dr. Stan Finkelstein, Amparo Canaveras, Kenneth Gotleib, and Abby Horn. Used with permission.)
+Calendar and Reading List ({{% resource_link 2563ec2f-73cb-9d2f-5721-c2d99d105e86 "PDF" %}}) (Courtesy of Dr. Stan Finkelstein, Amparo Canaveras, Kenneth Gotleib, and Abby Horn. Used with permission.)
 
 ### The Internet: Governance and the "Digital Divide"
 
-Overview ([PDF]({{< baseurl >}}/resources/mitesd_00s11_overview_iter)) (Courtesy of Jesse H. Sowell. Used with permission.)
+Overview ({{% resource_link e14a067d-88ea-6fe1-815f-d2792ec41dc2 "PDF" %}}) (Courtesy of Jesse H. Sowell. Used with permission.)
 
 Deliverables
 ------------

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/esd-00-introduction-to-engineering-systems-spring-2011/e125e02003b87c191adaff836ae1aaf6_esd-00s11-th.jpg
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/e125e02003b87c191adaff836ae1aaf6_esd-00s11-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: This course will provide you with the skills necessary to tackle some of

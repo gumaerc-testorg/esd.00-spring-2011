@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains lecture slides for the project nn high-speed rail.   '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -46,7 +47,7 @@ R2
 The case of California and the Northeast Corridor
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec02))
+({{% resource_link 1d3434f4-695f-6b86-fee5-477374daa017 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ R4
 Demand forecasting and uncertainties
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec04))
+({{% resource_link 1b1abfd1-1263-d3f7-8cc8-6478d0a0fa0c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +95,7 @@ R6
 Evaluating the environmental impacts of high-speed transportation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec06))
+({{% resource_link e54012da-9b63-d54f-e1e8-16d900715f5b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ R7
 Lifecycle assessment of aviation and high-speed rail
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec07))
+({{% resource_link daca426a-d639-5955-377d-6912b456e101 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +131,7 @@ R9
 Input-output lifecycle assessment and stakeholders
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec09))
+({{% resource_link 392f5bcb-a335-2859-a71d-92066c598c3d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +155,7 @@ R11
 Lifecycle assessment
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec11))
+({{% resource_link ad1b3d92-4d66-8f3a-6ab8-88492d185a3e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +167,7 @@ R12
 Uncertainty analysis and networks
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mitesd_00s11_rec12))
+({{% resource_link 2849b641-c721-6e91-5d46-d7c394a061bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains a list of readings for the project on high-speed
+  rail.   '
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -36,11 +38,11 @@ Project motivation and background
 {{< tdopen >}}
 
 
-"Vision for High-Speed Rail in America." U.S. Department of Transportation Federal Railroad Administration, April 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.0MB](http://www.fra.dot.gov/Elib/Document/1468))
+"Vision for High-Speed Rail in America." U.S. Department of Transportation Federal Railroad Administration, April 2009. ([PDF - 2.0MB](http://www.fra.dot.gov/Elib/Document/1468))
 
 ### Suggested
 
-Tomer, Adie, and Robert Puentes. "Expect Delays: An Analysis of Air Travel Trends in the United States." Metropolitan Policy Program, Brookings Institute, October 2009. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.7MB](https://www.brookings.edu/research/expect-delays-an-analysis-of-air-travel-trends-in-the-united-states/))
+Tomer, Adie, and Robert Puentes. "Expect Delays: An Analysis of Air Travel Trends in the United States." Metropolitan Policy Program, Brookings Institute, October 2009. ([PDF - 3.7MB](https://www.brookings.edu/research/expect-delays-an-analysis-of-air-travel-trends-in-the-united-states/))
 
 Schafer, Andreas, and David G. Victor. "The Future Mobility of the World Population." _Transportation Research Part A: Policy and Practice_ 34, no. 3 (2000): 171-205.
 
