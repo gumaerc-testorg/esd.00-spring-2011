@@ -5,6 +5,7 @@ file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/d9dbb5bb4e
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_00S11_read06a.pdf
 uid: d9dbb5bb-4e86-5598-f9b6-293fbdf83ae0
 ---
 This resource includes information on did Belichick make the right call? 
-

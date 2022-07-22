@@ -6,6 +6,7 @@ file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/321cd9d9f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MITESD_00S11_lec01.pdf
 uid: 321cd9d9-f5c3-80b7-6f19-39b678e8b9c9
 ---
 This resource is an introduction to critical contemporary issues (CCIs)and complex systems.
-

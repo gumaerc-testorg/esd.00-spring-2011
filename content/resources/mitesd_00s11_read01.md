@@ -6,6 +6,7 @@ file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/653ee16a12
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,5 +16,3 @@ title: MITESD_00S11_read01.pdf
 uid: 653ee16a-12d3-13a2-3a0c-0a1a3922301e
 ---
 This resource includes information on complex, sociotechnical systems (CSS): some fundamental concepts.
-
-

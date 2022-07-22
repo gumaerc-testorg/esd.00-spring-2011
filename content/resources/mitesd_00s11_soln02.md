@@ -5,6 +5,7 @@ file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/65d01a09a7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MITESD_00S11_soln02.pdf
 uid: 65d01a09-a74a-a872-fe41-00c328bea994
 ---
 This resource includes solution to problem exercise.
-
