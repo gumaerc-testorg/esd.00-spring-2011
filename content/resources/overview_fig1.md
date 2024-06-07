@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/d06a936b481d4b2ce0031c934cc3aa29_overview_fig1.jpg
+file_size: 50118
 file_type: image/jpeg
 image_metadata:
   caption: ''

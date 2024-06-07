@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes information on evaluating the environmental impacts
   of high-speed transportation.
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/e54012da9b63d54fe1e816d900715f5b_MITESD_00S11_rec06.pdf
+file_size: 145449
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

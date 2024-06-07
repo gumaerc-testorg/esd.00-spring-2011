@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes information on System dynamics II: system structure
   and behavior.'
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/85603d5fc80f4c996a56b29e03460166_MITESD_00S11_lec03.pdf
+file_size: 840323
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
