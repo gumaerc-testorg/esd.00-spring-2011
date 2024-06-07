@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on project feedback and discussion.
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/392f5bcba3352859a71d92066c598c3d_MITESD_00S11_rec09.pdf
+file_size: 239282
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

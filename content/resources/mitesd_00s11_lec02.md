@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource includes information on system dynamics I: introduction.'
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/816df198baedb3b544ab4148ce86927d_MITESD_00S11_lec02.pdf
+file_size: 558608
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

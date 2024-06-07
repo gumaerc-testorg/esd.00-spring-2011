@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes information on project lab hours.
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/2849b641c7216e915d46d7c394a061bb_MITESD_00S11_rec12.pdf
+file_size: 398523
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
