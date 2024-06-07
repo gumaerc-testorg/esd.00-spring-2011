@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes problems exercises.
 file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/84c4e912cdf0d9fa388852d5e38e1c3e_MITESD_00S11_assn02.pdf
+file_size: 233120
 file_type: application/pdf
 learning_resource_types:
 - Assignments
