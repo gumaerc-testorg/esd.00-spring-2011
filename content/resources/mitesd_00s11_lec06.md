@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource offers information related to designing for flexibility;
   planning for uncertainty (forecasts etc.), policy robustness.
-file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/1cb961bffd1d5e437be957c66ad547fd_MITESD_00S11_lec06.pdf
+file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/1cb961bffd1d5e437be957c66ad547fd_MITESD_00S11_lec06.pdf
 file_size: 250395
 file_type: application/pdf
 learning_resource_types:
