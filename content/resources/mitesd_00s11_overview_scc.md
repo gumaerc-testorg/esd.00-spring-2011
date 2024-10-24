@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource offers an overview on the stroke care chain.
-file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/5d1b33898585a1f08d607dfe0c717e37_MITESD_00S11_overview_scc.pdf
+file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/5d1b33898585a1f08d607dfe0c717e37_MITESD_00S11_overview_scc.pdf
 file_size: 90950
 file_type: application/pdf
 learning_resource_types:

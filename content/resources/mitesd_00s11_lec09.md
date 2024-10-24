@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource offers information on considering stakeholders with different
   values in decision making.
-file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/1fc7ee99f40b5f81cfa1765ed1304033_MITESD_00S11_lec09.pdf
+file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/1fc7ee99f40b5f81cfa1765ed1304033_MITESD_00S11_lec09.pdf
 file_size: 281848
 file_type: application/pdf
 learning_resource_types:
