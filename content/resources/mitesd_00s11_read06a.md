@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource includes information on did Belichick make the right call? '
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/d9dbb5bb4e865598f9b6293fbdf83ae0_MITESD_00S11_read06a.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/d9dbb5bb4e865598f9b6293fbdf83ae0_MITESD_00S11_read06a.pdf
 file_size: 66703
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on demand forecasting and uncertainties.
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/1b1abfd11263d3f78cc86478d0a0fa0c_MITESD_00S11_rec04.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/1b1abfd11263d3f78cc86478d0a0fa0c_MITESD_00S11_rec04.pdf
 file_size: 186128
 file_type: application/pdf
 learning_resource_types: []
