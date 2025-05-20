@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource offers overview on the internet: governance and the "Digital
   Divide".'
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/e14a067d88ea6fe1815fd2792ec41dc2_MITESD_00S11_overview_iter.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/e14a067d88ea6fe1815fd2792ec41dc2_MITESD_00S11_overview_iter.pdf
 file_size: 111282
 file_type: application/pdf
 learning_resource_types:

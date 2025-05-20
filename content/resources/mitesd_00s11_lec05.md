@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource offers introduction to random variables, probability, statistics.
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/a6b1188e0fd673f73ca4ac2b7e4cb2a7_MITESD_00S11_lec05.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/a6b1188e0fd673f73ca4ac2b7e4cb2a7_MITESD_00S11_lec05.pdf
 file_size: 328828
 file_type: application/pdf
 learning_resource_types:

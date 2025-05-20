@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource includes information on complex, sociotechnical systems\
   \ (CSS): some fundamental concepts.\r\n"
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/653ee16a12d313a23a0c0a1a3922301e_MITESD_00S11_read01.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/653ee16a12d313a23a0c0a1a3922301e_MITESD_00S11_read01.pdf
 file_size: 213693
 file_type: application/pdf
 learning_resource_types:
