@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on project lab hours.
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/ad1b3d924d668f3a6ab888492d185a3e_MITESD_00S11_rec11.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/ad1b3d924d668f3a6ab888492d185a3e_MITESD_00S11_rec11.pdf
 file_size: 124438
 file_type: application/pdf
 learning_resource_types: []

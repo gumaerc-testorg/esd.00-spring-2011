@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource includes information on the Tsunami that wasn\u2019t."
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/87bb47463a42c32a4cd1cfa9c14c2d0e_MITESD_00S11_read05b.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/87bb47463a42c32a4cd1cfa9c14c2d0e_MITESD_00S11_read05b.pdf
 file_size: 445024
 file_type: application/pdf
 learning_resource_types:

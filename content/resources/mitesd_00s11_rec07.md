@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on midterm project presentations.
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/daca426ad6395955377d6912b456e101_MITESD_00S11_rec07.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/daca426ad6395955377d6912b456e101_MITESD_00S11_rec07.pdf
 file_size: 390578
 file_type: application/pdf
 learning_resource_types: []

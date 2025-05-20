@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on networks.
-file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/60d8431e128296df54df29c779477d86_MITESD_00S11_lec07.pdf
+file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/60d8431e128296df54df29c779477d86_MITESD_00S11_lec07.pdf
 file_size: 749572
 file_type: application/pdf
 learning_resource_types:
