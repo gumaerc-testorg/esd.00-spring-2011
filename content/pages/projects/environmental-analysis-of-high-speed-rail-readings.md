@@ -54,7 +54,7 @@ R4
 Demand forecasting and uncertainties
 {{< tdclose >}}{{< tdopen >}}
 
-Guy, Ann Brody. "[California High-Speed Rail Ridership Forecast Not Reliable, Study Finds](http://newscenter.berkeley.edu/2010/07/01/high_speed_rail/)." *UC Berkeley News Center*, July 1, 2010.
+Guy, Ann Brody. "[California High-Speed Rail Ridership Forecast Not Reliable, Study Finds](https://news.berkeley.edu/2010/07/01/high_speed_rail/)." *UC Berkeley News Center*, July 1, 2010.
 
 Brownstone, David, Mark Hansen, and Samer Madanat. "Review of "Bay Area/California High-Speed Rail Ridership and Revenue Forecasting Study."" *UC Berkeley Institute of Transportation Studies*, June 2010.
 
