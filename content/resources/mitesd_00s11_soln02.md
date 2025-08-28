@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes solution to problem exercise.
-file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/65d01a09a74aa872fe4100c328bea994_MITESD_00S11_soln02.pdf
+file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/65d01a09a74aa872fe4100c328bea994_MITESD_00S11_soln02.pdf
 file_size: 389077
 file_type: application/pdf
 learning_resource_types:
