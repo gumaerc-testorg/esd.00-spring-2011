@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on system dynamics.
-file: /courses/esd-00-introduction-to-engineering-systems-spring-2011/7271d52202426478111d17535e41ad8e_MITESD_00S11_lec04.pdf
+file: /ol-ocw-studio-app/courses/esd-00-introduction-to-engineering-systems-spring-2011/7271d52202426478111d17535e41ad8e_MITESD_00S11_lec04.pdf
 file_size: 666411
 file_type: application/pdf
 learning_resource_types:
