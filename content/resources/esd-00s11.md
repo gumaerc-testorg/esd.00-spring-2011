@@ -7,7 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: This course will provide you with the skills necessary to tackle some of
     the messiest challenges in the world, including issues in transportation. (Image
-    by [Honou](http://www.flickr.com/photos/honou/3350764803/) on Flickr.)
+    by {{% resource_link "2c81c6b9-831d-4191-b3d6-52cebed0ce93" "Honou" %}} on Flickr.)
   credit: ''
   image-alt: Photo of traffic jam in Bangkok.
 learning_resource_types: []

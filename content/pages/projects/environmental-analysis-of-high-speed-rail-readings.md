@@ -24,11 +24,11 @@ R1
 Project motivation and background
 {{< tdclose >}}{{< tdopen >}}
 
-"Vision for High-Speed Rail in America." U.S. Department of Transportation Federal Railroad Administration, April 2009. ([PDF - 2.0MB](https://web.archive.org/web/20170428001826/https://www.fra.dot.gov/Elib/Document/1468))
+"Vision for High-Speed Rail in America." U.S. Department of Transportation Federal Railroad Administration, April 2009. ({{% resource_link "5ce46407-4285-453d-a9d9-8becda21f316" "PDF - 2.0MB" %}})
 
 ### Suggested
 
-Tomer, Adie, and Robert Puentes. "Expect Delays: An Analysis of Air Travel Trends in the United States." Metropolitan Policy Program, Brookings Institute, October 2009. ([PDF - 3.7MB](https://www.brookings.edu/research/expect-delays-an-analysis-of-air-travel-trends-in-the-united-states/))
+Tomer, Adie, and Robert Puentes. "Expect Delays: An Analysis of Air Travel Trends in the United States." Metropolitan Policy Program, Brookings Institute, October 2009. ({{% resource_link "b53c5bd6-2c7e-4ccc-a870-76b6d42ee82b" "PDF - 3.7MB" %}})
 
 Schafer, Andreas, and David G. Victor. "The Future Mobility of the World Population." *Transportation Research Part A: Policy and Practice* 34, no. 3 (2000): 171-205.
 
@@ -38,9 +38,9 @@ R2
 The case of California and the Northeast Corridor
 {{< tdclose >}}{{< tdopen >}}
 
-"[Project Vision and Scope](http://web.archive.org/web/20120208082350/http://cahighspeedrail.ca.gov/project_vision.aspx)." California High-Speed Rail Authority.
+"{{% resource_link "b5cd33de-ea39-4a25-9972-fc110c7224ba" "Project Vision and Scope" %}}." California High-Speed Rail Authority.
 
-"[Northeast Corridor Main Line](https://web.archive.org/web/20110411221532/http://www.fra.dot.gov/rpd/passenger/643.shtml)." U.S. Department of Transportation Federal Railroad Administration.
+"{{% resource_link "4e908618-5195-4dea-8f77-41729613afef" "Northeast Corridor Main Line" %}}." U.S. Department of Transportation Federal Railroad Administration.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R3
@@ -54,7 +54,7 @@ R4
 Demand forecasting and uncertainties
 {{< tdclose >}}{{< tdopen >}}
 
-Guy, Ann Brody. "[California High-Speed Rail Ridership Forecast Not Reliable, Study Finds](https://news.berkeley.edu/2010/07/01/high_speed_rail/)." *UC Berkeley News Center*, July 1, 2010.
+Guy, Ann Brody. "{{% resource_link "6ff558bd-23d1-4c45-aac2-6bf64c459320" "California High-Speed Rail Ridership Forecast Not Reliable, Study Finds" %}}." *UC Berkeley News Center*, July 1, 2010.
 
 Brownstone, David, Mark Hansen, and Samer Madanat. "Review of "Bay Area/California High-Speed Rail Ridership and Revenue Forecasting Study."" *UC Berkeley Institute of Transportation Studies*, June 2010.
 
@@ -69,7 +69,7 @@ R6
 {{< tdclose >}}{{< tdopen >}}
 Evaluating the environmental impacts of high-speed transportation
 {{< tdclose >}}{{< tdopen >}}
-Chester, Mikhail, and Arpad Horvath. "[Life-cycle Assessment of High-Speed Rail: the Case of California](http://dx.doi.org/10.1088/1748-9326/5/1/014003)." *Environmental Research Letters* 5, no. 1 (2010).
+Chester, Mikhail, and Arpad Horvath. "{{% resource_link "0df0c910-e1b9-46de-b4bf-cdc4f9621dbb" "Life-cycle Assessment of High-Speed Rail: the Case of California" %}}." *Environmental Research Letters* 5, no. 1 (2010).
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 R7
 {{< tdclose >}}{{< tdopen >}}
